@@ -93,3 +93,24 @@ function input(){
     var newDescription = prompt("Edit Description");
     document.getElementById('p1').innerHTML = newDescription
 }
+
+function input2(){
+    var newDescription2 = prompt("Edit Description");
+    document.getElementById('p2').innerHTML = newDescription2
+}
+
+function input3(){
+    var newDescription3 = prompt("Edit Description");
+    document.getElementById('p3').innerHTML = newDescription3
+}
+
+function input4(){
+    var newDescription4 = prompt("Edit Description");
+    document.getElementById('p4').innerHTML = newDescription4
+}
+
+function input5(){
+    var newDescription5 = prompt("Edit Description");
+    document.getElementById('p5').innerHTML = newDescription5
+}
+
